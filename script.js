@@ -1,3 +1,4 @@
+
 const road = document.querySelector('.road');
 const scoreDisplay = document.querySelector('.score');
 const startBtn = document.getElementById('startBtn');
